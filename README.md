@@ -1,13 +1,5 @@
-### Hi there 👋
-
-<!--
-**Manoj2208/Manoj2208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+👋 hai I'm Manoj
 - 🔭 I’m currently taking training as well as internship @HCL...
 - 👀 I’m interested in backend development  ...
 - 🌱 I’m currently learning Java Fullstack  ...
 - 📫 How to reach me: manojmk2209@gmail.com...
-- 
--->
